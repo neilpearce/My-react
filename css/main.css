@@ -1,0 +1,24 @@
+button {
+    background-color: blue;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all .2s;
+}
+
+button:hover {
+    background-color: rgb(54, 54, 246);
+  
+}
+
+#feed {
+    position: relative;
+}
+
+img {
+    max-width: 100px;
+    padding-bottom: 1rem;
+    display: flex;
+}
